@@ -35,7 +35,7 @@ function getQue(el) {
   }
   console.log(logText.join("\n"));
 })();
-``
+```
 
 # 执行
 在浏览器控制台执行之后即可得到结果
